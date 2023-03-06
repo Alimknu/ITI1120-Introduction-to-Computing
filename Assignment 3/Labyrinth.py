@@ -1,5 +1,3 @@
-#Ali Mirzakhalili 300288698
-
 def findEntrance(m): #looks for where the entrance is in the maze
     n = len(m)
     for row in range(n):
